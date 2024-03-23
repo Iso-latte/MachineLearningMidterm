@@ -12,6 +12,11 @@
 - The code does cross validation for each model
 - It also graphs the confusion matrix of each model
 
+## Requirments
+- SKlearn
+- Numpy
+- Pandas
+
 # REPORT
 
 ## Model One: Logistic Regression
