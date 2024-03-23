@@ -16,6 +16,7 @@
 - SKlearn
 - Numpy
 - Pandas
+- Matplotlib
 
 # REPORT
 
